@@ -21,12 +21,6 @@
 
 
 <a href="https://github.com/sa-una-gi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sa-una-gi&show_icons=true" />
-</a>
-<a href="https://github.com/sa-una-gi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa-una-gi" />
-</a>
-<a href="https://github.com/sa-una-gi">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sa-una-gi&show_icons=true" alt="sa-una-gi" />
 </a>
 <a>
