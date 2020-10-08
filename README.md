@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keigo Hirayama</h1>
-<h3 align="center">現在転職活動中のエンジニアです。Ruby,Railsを中心に学習を進めております。2020年９月は４２Tokyoに参加していたため、当アカウントは利用しておりませんでした。</h3>
+<h3 align="center">現在転職活動中のエンジニアです。\nRuby,Railsを中心に学習を進めております。\n2020年９月は４２Tokyoに参加していたため、当アカウントは利用しておりませんでした。</h3>
 
 - 🌱 I’m currently learning **Ruby,Rails,SQL,JavaScript,etc....**
 
