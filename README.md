@@ -6,8 +6,9 @@
 - 🌱 42Tokyo:9月Piscineに参加(2020年9月)
 - 🌱 現在転職活動を行いながらSQL等の技術習得を行っています
 
-- 👨‍💻「次、どこいく？」を提案するルート投稿SNS[【TsugiDoco】](https://tsugidoco.work/)
-- 📝 Wantedly:[プロフィール](https://www.wantedly.com/users/116610911?profile_v1=true)
+- 💻「次、どこいく？」を提案するルート投稿SNS[【TsugiDoco】](https://tsugidoco.work/)
+- 📝 Qiita:[プロフィール](https://qiita.com/u_nayama)
+- 🙎‍♂️ Wantedly:[プロフィール](https://www.wantedly.com/users/116610911?profile_v1=true)
 - 🕊 Twitter:[u_nayama](https://twitter.com/u_nayama)　主に学習内容を記録
 - 📫 How to reach me **k5.daha55@gmail.com**
 
